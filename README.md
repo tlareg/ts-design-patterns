@@ -4,6 +4,7 @@ GoF design patterns implemented with ES2015 (ES6) and TypeScript
 --
 Currently implemented:
 * Builder
+* Decorator
 
 --
 Run **ES2015 (ES6)** example (used nodejs v6.3.1):
