@@ -6,6 +6,7 @@ Currently implemented:
 * Builder
 * Decorator
 * Facade
+* Observer
 
 --
 Run **ES2015 (ES6)** example (used nodejs v6.3.1):
