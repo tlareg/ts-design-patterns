@@ -7,6 +7,7 @@ Currently implemented:
 * Decorator
 * Facade
 * Observer
+* Strategy
 
 --
 Run **ES2015 (ES6)** example (used nodejs v6.3.1):
