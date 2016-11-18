@@ -9,6 +9,7 @@ Currently implemented:
 * Observer
 * Strategy
 * Singleton
+* Chain of Responsibility
 
 --
 Run **ES2015 (ES6)** example (used nodejs v6.3.1):
