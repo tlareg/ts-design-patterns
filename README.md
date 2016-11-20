@@ -12,6 +12,7 @@ Currently implemented:
 * Behavioral
   * Observer
   * Strategy
+  * Command
   * Chain of Responsibility
 
 --
