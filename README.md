@@ -3,13 +3,16 @@ GoF design patterns implemented with ES2015 (ES6) and TypeScript
 
 --
 Currently implemented:
-* Builder
-* Decorator
-* Facade
-* Observer
-* Strategy
-* Singleton
-* Chain of Responsibility
+* Creational
+  * Builder
+  * Singleton
+* Structural
+  * Decorator
+  * Facade
+* Behavioral
+  * Observer
+  * Strategy
+  * Chain of Responsibility
 
 --
 Run **ES2015 (ES6)** example (used nodejs v6.3.1):
