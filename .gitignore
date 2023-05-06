@@ -1,2 +1,1 @@
-# Ignores compiled TypeScript files
-src/**/ts/**/*.js
+node_modules

@@ -1,0 +1,21 @@
+{
+  "name": "ts-design-patterns",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlareg/ts-design-patterns.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/tlareg/ts-design-patterns/issues"
+  },
+  "homepage": "https://github.com/tlareg/ts-design-patterns#readme",
+  "devDependencies": {
+    "vitest": "^0.31.0"
+  }
+}
